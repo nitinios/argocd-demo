@@ -4,5 +4,4 @@
  namespace: argocd
 
  resources:
-   - argocd-demo.yaml
    - podinfo-demo-argo.yaml
